@@ -1,0 +1,46 @@
+1️⃣ Get a Facebook Pixel ID
+📌 Steps:
+
+Go to Meta Business Suite and log in.
+
+Navigate to Events Manager → Connect Data Sources → Web.
+
+Select Facebook Pixel, then Create Pixel.
+
+Follow the instructions and copy the Pixel ID (a string of numbers).
+
+Replace YOUR_PIXEL_ID in the code with the Pixel ID.
+
+2️⃣ Get a Google Tag Manager (GTM) ID
+📌 Steps:
+
+Go to Google Tag Manager and log in with your Google account.
+
+Click Create Account, enter your website details, and select Web as the target platform.
+
+After setup, you will see a GTM-XXXXXX format ID.
+
+Replace YOUR_GTM_ID in the code with your GTM ID.
+
+3️⃣ Get a Google Analytics Tracking ID
+📌 Steps:
+
+Go to Google Analytics and log in.
+
+Click Admin → Create Account → Property (enter your website details).
+
+Select Web and follow the setup process.
+
+Once done, you will get a Tracking ID (looks like G-XXXXXXXXXX).
+
+Replace YOUR_TRACKING_ID in the code with your Google Analytics ID.
+
+💡 Next Steps
+Once you have your IDs, update the HTML code with your actual Pixel, GTM, and Tracking IDs.
+
+After adding them, verify their functionality using:
+
+Facebook Pixel Helper (Chrome extension) for Pixel tracking.
+
+Google Tag Assistant (Chrome extension) for GTM and Analytics.
+
